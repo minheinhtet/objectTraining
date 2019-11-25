@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Doors</folder>
+	<filename>DOR_S1_126.jpg</filename>
+	<path>D:\ProjectHons\workspace\training_demo\images\Doors\DOR_S1_126.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2163</width>
+		<height>3815</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>313</ymin>
+			<xmax>2019</xmax>
+			<ymax>3767</ymax>
+		</bndbox>
+	</object>
+</annotation>
